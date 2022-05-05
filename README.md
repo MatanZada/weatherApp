@@ -26,4 +26,4 @@ nodemon - To start the server
   ![Alt text](img/err.png "Git checkbox")
 
 - Identify a city by name
-  ![Alt text](/public/img/one.png "Git checkbox")
+  ![Alt text](img/Screenshot%202022-05-06%20003512.png "Git checkbox")
