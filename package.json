@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon node .",
+    "fix": "npx prettier --write ."
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "4.17.2",
+    "hbs": "^4.2.0",
+    "mongoose": "6.2.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.15",
+    "prettier": "2.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
